@@ -14,11 +14,10 @@ A simple command-line application to manage contacts using Python.
 ## How to Run
 
 ```bash
-python main.py***
+python main.py
+```
 
 ## Author
 Harshini
-
-
        
 
