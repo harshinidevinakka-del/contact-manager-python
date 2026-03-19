@@ -15,5 +15,6 @@ A simple command-line application to manage contacts using Python.
 
 ```bash
 python main.py
+
 ## Author
 Harshini
